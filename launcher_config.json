@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15.00.00000",
+	"clientVersion": "15.01.00000",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/pontidonti/client/releases/download/15.0/15.00.00000.zip",
+	"newClientUrl" : "https://github.com/pontidonti/client/releases/download/15.01/15.01.0000.zip",
 	"clientExecutable": "client.exe"
 }
