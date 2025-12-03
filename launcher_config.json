@@ -28,6 +28,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/pontidonti/client/releases/download/15.07/15.07.0000.zip",
+	"newClientUrl" : "https://github.com/pontidonti/client/releases/download/15.08/15.08.0000.zip",
 	"clientExecutable": "client.exe"
 }
